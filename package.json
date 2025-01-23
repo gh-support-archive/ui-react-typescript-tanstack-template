@@ -48,7 +48,7 @@
     "@storybook/addon-interactions": "^8.5.1",
     "@storybook/addon-links": "^8.5.0",
     "@storybook/blocks": "^8.4.7",
-    "@storybook/react": "^8.5.0",
+    "@storybook/react": "^8.5.1",
     "@storybook/react-vite": "^8.5.0",
     "@storybook/test": "^8.5.0",
     "@tanstack/eslint-plugin-query": "^5.62.16",
