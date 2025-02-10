@@ -50,7 +50,7 @@
     "@storybook/blocks": "^8.5.2",
     "@storybook/react": "^8.5.3",
     "@storybook/react-vite": "^8.5.2",
-    "@storybook/test": "^8.5.0",
+    "@storybook/test": "^8.5.3",
     "@tanstack/eslint-plugin-query": "^5.66.0",
     "@tanstack/eslint-plugin-router": "^1.99.3",
     "@tanstack/react-query-devtools": "^5.66.0",
