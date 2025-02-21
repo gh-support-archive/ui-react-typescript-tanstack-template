@@ -33,7 +33,7 @@
     "miragejs": "^0.1.48",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-i18next": "^15.4.0",
+    "react-i18next": "^15.4.1",
     "react-lottie": "^1.2.10",
     "yup": "^1.6.1"
   },
