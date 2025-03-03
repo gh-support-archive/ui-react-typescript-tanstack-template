@@ -92,7 +92,7 @@
     "sort-package-json": "^2.14.0",
     "storybook": "^8.5.4",
     "storybook-dark-mode": "^4.0.2",
-    "stylelint": "^16.14.1",
+    "stylelint": "^16.15.0",
     "stylelint-config-standard-scss": "^14.0.0",
     "typescript": "~5.7.3",
     "typescript-eslint": "^8.25.0",
