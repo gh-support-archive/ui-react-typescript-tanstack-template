@@ -35,7 +35,7 @@ Two options here either use github's `Use this template` button or do it by clon
 
 ```bash
 # Clone the repository
-git clone https://github.com/gh-buddy/react-ts.git my-app
+git clone https://github.com/gh-buddy/ui-react-typescript-tanstack-template.git my-app
 
 # Navigate to project directory
 cd my-app
