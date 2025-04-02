@@ -52,7 +52,7 @@
     "@storybook/react-vite": "^8.6.10",
     "@storybook/test": "^8.6.9",
     "@tanstack/eslint-plugin-query": "^5.68.0",
-    "@tanstack/eslint-plugin-router": "^1.114.12",
+    "@tanstack/eslint-plugin-router": "^1.114.29",
     "@tanstack/react-query-devtools": "^5.69.0",
     "@tanstack/router-devtools": "^1.114.29",
     "@tanstack/router-plugin": "^1.114.29",
