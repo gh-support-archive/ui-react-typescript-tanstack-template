@@ -24,7 +24,7 @@
     "@reduxjs/toolkit": "^2.7.0",
     "@tabler/icons-react": "^3.31.0",
     "@tanstack/react-query": "^5.74.4",
-    "@tanstack/react-router": "^1.116.0",
+    "@tanstack/react-router": "^1.117.0",
     "axios": "^1.8.4",
     "dayjs": "^1.11.10",
     "i18next": "^25.0.1",
