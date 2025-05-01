@@ -27,7 +27,7 @@
     "@tanstack/react-router": "^1.119.0",
     "axios": "^1.8.4",
     "dayjs": "^1.11.10",
-    "i18next": "^25.0.1",
+    "i18next": "^25.0.2",
     "lodash": "^4.17.21",
     "lottie-web": "^5.12.2",
     "miragejs": "^0.1.48",
